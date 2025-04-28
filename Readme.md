@@ -1,4 +1,4 @@
-# 📚 Spring Boot Book Management Project
+# 📚 Spring Boot Mini Library Project
 
 Bu proje, Spring Boot ve Thymeleaf kullanarak geliştirilmiş basit bir **kitap yönetim uygulamasıdır**.  
 Veritabanı kullanılmadan, sabit bir `List` içinde kitaplar yönetilmektedir.
@@ -10,7 +10,6 @@ Veritabanı kullanılmadan, sabit bir `List` içinde kitaplar yönetilmektedir.
 - Kitap listeleme
 - Yeni kitap ekleme
 - Kitap silme
-- 
 ## 📋 TODO Listesi
 
 - [x] Kitap listeleme (book list) işlemleri tamamlandı.
